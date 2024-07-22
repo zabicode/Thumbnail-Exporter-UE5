@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Thumbnail Exporter",
+	"Description": "Supports users to export asset thumbnails",
+	"Category": "Thumbnail Exporter",
+	"CreatedBy": "Lukas Keller",
+	"CreatedByURL": "https://github.com/zabicode",
+	"DocsURL": "",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/2fe2fd742da84dfe96a01a3029ab12e6",
+	"SupportURL": "",
+	"EngineVersion": "5.4.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "ThumbnailExportManager",
+			"Type": "Editor",
+			"LoadingPhase": "PreDefault"
+		}
+	]
+}
