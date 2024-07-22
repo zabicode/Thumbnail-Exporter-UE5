@@ -17,5 +17,3 @@
 ### 4. Use the Plugin in Your Project
 - Access Plugin Features: After the engine restarts, the plugin should be active in your project. Access its features through the editor as specified in the plugin's documentation.
 - Integrate into Your Workflow: Use the tools, assets, or functionalities provided by the plugin as needed in your development process.
-
-## How to use the plugin?
