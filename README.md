@@ -1,5 +1,3 @@
-# Thumbnail Exporter Documentation 
-
 ## How to integrate an unreal engine plugin?
 ### Via Marketplace
 
