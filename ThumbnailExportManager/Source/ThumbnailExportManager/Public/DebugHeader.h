@@ -1,3 +1,6 @@
+// Copyright (c) 2024, zabicode. All rights reserved.
+
+
 #pragma once
 #include "Misc/MessageDialog.h"
 #include "Widgets/Notifications/SNotificationList.h"
